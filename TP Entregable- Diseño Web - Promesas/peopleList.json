@@ -1,0 +1,45 @@
+[
+    {
+        "id" : 1,
+        "dni" : "39556780",
+        "lastName" : "zeballos",
+        "firstName" : "matias",
+        "email" : "matizur_20@gmail.com",
+        "cohort" : "5",
+        "status" : "activo",
+        "gender" : "masculino",
+        "address" : "San Martin 8450",
+        "phone" : "22364050"
+
+    },
+
+
+    {
+        "id" : 2,
+        "dni" : "44180520",
+        "lastName" : "perez",
+        "firstName" : "miguel",
+        "email" : "migue890_bz@gmail.com",
+        "cohort" : "5",
+        "status" : "activo",
+        "gender" : "masculino",
+        "address" : "Sarandi 241",
+        "phone" : "223430200"
+
+    },
+
+    {
+        "id" : 3,
+        "dni" : "29600422",
+        "lastName" : "swift",
+        "firstName" : "lucia",
+        "email" : "swlucia@gmail.com",
+        "cohort" : "5",
+        "status" : "activo",
+        "gender" : "femenino",
+        "address" : "Independencia 1025",
+        "phone" : "223943675"
+
+    }
+   
+]
